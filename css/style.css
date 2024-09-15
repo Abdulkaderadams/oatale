@@ -679,7 +679,7 @@ a:hover {
   margin-bottom: 1rem;
 }
 
-#products :nth-child(n + 11) {
+#products :nth-child(n + 10) {
   display: none;
 }
 

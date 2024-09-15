@@ -90,7 +90,7 @@ let products = {
 
       // nutri: ["39", "932"],
       category: "smoothies",
-      price: "8.00",
+      price: "5.5",
       image: "./images/smoothie-bowl/rootery.png",
     },
     {
@@ -98,7 +98,7 @@ let products = {
       description: "Mango base",
       // nutri: ["37", "752"],
       category: "smoothies",
-      price: "8.5",
+      price: "6.00",
 
       image: "./images/smoothie-bowl/mango.png",
     },
@@ -107,7 +107,7 @@ let products = {
       description: "Spirulina combo",
       // nutri: ["32", "550"],
       category: "smoothies",
-      price: "8.5",
+      price: "4.5",
       image: "./images/smoothie-bowl/pinada.png",
     },
 
@@ -116,7 +116,7 @@ let products = {
       description: "Heavenly chocolate taste ",
       // nutri: ["23", "370"],
       category: "smoothies",
-      price: "8.00",
+      price: "5.5",
       image: "./images/smoothie-bowl/choco-puds.png",
     },
 
@@ -125,7 +125,7 @@ let products = {
       description: "Avocado",
       // nutri: ["26", "365"],
       category: "smoothies",
-      price: "7.5",
+      price: "5.00",
       image: "./images/smoothie-bowl/avocado.png",
     },
     {
@@ -133,7 +133,7 @@ let products = {
       description: "Strawberry Greek-yogurt base",
       // nutri: ["28", "705"],
       category: "smoothies",
-      price: "7.5",
+      price: "4.5",
       image: "./images/smoothie-bowl/pb&jam.png",
     },
     {
@@ -141,7 +141,7 @@ let products = {
       description: "You guess it right!",
       // nutri: ["20", "425"],
       category: "smoothies",
-      price: "8.00",
+      price: "5.00",
       image: "./images/smoothie-bowl/bananstraw.png",
     },
 
@@ -150,7 +150,7 @@ let products = {
       description: "Another right guess !",
       // nutri: ["47", "555"],
       category: "smoothies",
-      price: "8.5",
+      price: "6.5",
       image: "./images/smoothie-bowl/berries.png",
     },
     {
@@ -158,17 +158,17 @@ let products = {
       description: "Boosted Açaí",
       // nutri: ["36", "583"],
       category: "smoothies",
-      price: "14.00",
+      price: "9.00",
       image: "./images/smoothie-bowl/acai.png",
     },
-    {
-      productName: "Island Bowl",
-      description: "A mix feels like a good day to swim",
-      // nutri: ["37", "685"],
-      category: "smoothies",
-      price: "12.00",
-      image: "./images/smoothie-bowl/island-bowl.png",
-    },
+    // {
+    // productName: "Island Bowl",
+    // description: "A mix feels like a good day to swim",
+    // nutri: ["37", "685"],
+    // category: "smoothies",
+    // price: "12.00",
+    // image: "./images/smoothie-bowl/island-bowl.png",
+    // },
 
     //oatmealsssssss
 
@@ -177,7 +177,7 @@ let products = {
       description: "Feels like Autumn",
       // nutri: ["2.5", "185"],
       category: "oatmeals",
-      price: "8.5",
+      price: "4.5",
       image: "./images/oatmeal-porridge/apple-pie.png",
     },
     {
@@ -185,7 +185,7 @@ let products = {
       description: "Very high in Antioxidants ",
       // nutri: ["2", "159"],
       category: "oatmeals",
-      price: "8.5",
+      price: "5.5",
       image: "./images/oatmeal-porridge/bluebs2.png",
     },
     {
@@ -193,7 +193,7 @@ let products = {
       description: "Ever wonder what is like eating a milkshake?",
       // nutri: ["2", "115"],
       category: "oatmeals",
-      price: "8.5",
+      price: "5.5",
       image: "./images/oatmeal-porridge/chocow2.png",
     },
     {
@@ -201,7 +201,7 @@ let products = {
       description: "Original one!",
       // nutri: ["2.2", "94"],
       category: "oatmeals",
-      price: "7.00",
+      price: "4.5",
       image: "./images/oatmeal-porridge/straw.png",
     },
   ],
