@@ -133,7 +133,7 @@ let products = {
       description: "Strawberry Greek-yogurt base",
       // nutri: ["28", "705"],
       category: "smoothies",
-      price: "4.5",
+      price: "5.00",
       image: "./images/smoothie-bowl/pb&jam.png",
     },
     {
