@@ -91,7 +91,7 @@ let products = {
       // nutri: ["39", "932"],
       category: "smoothies",
       price: "5.5",
-      image: "./images/smoothie-bowl/rootery.png",
+      image: "./images/smoothie-bowl/rootery.jpg",
     },
     {
       productName: "Mangooo",
@@ -100,7 +100,7 @@ let products = {
       category: "smoothies",
       price: "6.00",
 
-      image: "./images/smoothie-bowl/mango.png",
+      image: "./images/smoothie-bowl/mango.jpg",
     },
     {
       productName: "Pinada",
@@ -108,7 +108,7 @@ let products = {
       // nutri: ["32", "550"],
       category: "smoothies",
       price: "4.5",
-      image: "./images/smoothie-bowl/pinada.png",
+      image: "./images/smoothie-bowl/pinada.jpg",
     },
 
     {
@@ -117,7 +117,7 @@ let products = {
       // nutri: ["23", "370"],
       category: "smoothies",
       price: "5.5",
-      image: "./images/smoothie-bowl/choco-puds.png",
+      image: "./images/smoothie-bowl/chocopuds.jpg",
     },
 
     {
@@ -126,15 +126,15 @@ let products = {
       // nutri: ["26", "365"],
       category: "smoothies",
       price: "5.00",
-      image: "./images/smoothie-bowl/avocado.png",
+      image: "./images/smoothie-bowl/avocado.jpg",
     },
     {
       productName: "PB & Jam",
       description: "Strawberry Greek-yogurt base",
       // nutri: ["28", "705"],
       category: "smoothies",
-      price: "4.5",
-      image: "./images/smoothie-bowl/pb&jam.png",
+      price: "5.5",
+      image: "./images/smoothie-bowl/greek-straw.jpg",
     },
     {
       productName: "Banana-Straw",
@@ -142,7 +142,7 @@ let products = {
       // nutri: ["20", "425"],
       category: "smoothies",
       price: "5.00",
-      image: "./images/smoothie-bowl/bananstraw.png",
+      image: "./images/smoothie-bowl/banana-straw.jpg",
     },
 
     {
@@ -151,7 +151,7 @@ let products = {
       // nutri: ["47", "555"],
       category: "smoothies",
       price: "6.5",
-      image: "./images/smoothie-bowl/berries.png",
+      image: "./images/smoothie-bowl/mixed-berries.jpg",
     },
     {
       productName: "Açaí",
@@ -159,7 +159,7 @@ let products = {
       // nutri: ["36", "583"],
       category: "smoothies",
       price: "9.00",
-      image: "./images/smoothie-bowl/acai.png",
+      image: "./images/smoothie-bowl/acai.jpg",
     },
     // {
     // productName: "Island Bowl",
@@ -173,12 +173,12 @@ let products = {
     //oatmealsssssss
 
     {
-      productName: "Apple-Pie",
+      productName: "Autumn",
       description: "Feels like Autumn",
       // nutri: ["2.5", "185"],
       category: "oatmeals",
-      price: "4.5",
-      image: "./images/oatmeal-porridge/apple-pie.png",
+      price: "6.5",
+      image: "./images/oatmeal-porridge/autumn-porridge.jpg",
     },
     {
       productName: "Bluebs",
@@ -186,7 +186,7 @@ let products = {
       // nutri: ["2", "159"],
       category: "oatmeals",
       price: "5.5",
-      image: "./images/oatmeal-porridge/bluebs2.png",
+      image: "./images/oatmeal-porridge/bluebs-porridge.jpg",
     },
     {
       productName: "Chocow",
@@ -194,7 +194,7 @@ let products = {
       // nutri: ["2", "115"],
       category: "oatmeals",
       price: "5.5",
-      image: "./images/oatmeal-porridge/chocow2.png",
+      image: "./images/oatmeal-porridge/choco-porridge.jpg",
     },
     {
       productName: "Strawberry",
@@ -202,7 +202,7 @@ let products = {
       // nutri: ["2.2", "94"],
       category: "oatmeals",
       price: "4.5",
-      image: "./images/oatmeal-porridge/straw.png",
+      image: "./images/oatmeal-porridge/straw-porridge.jpg",
     },
   ],
 };
