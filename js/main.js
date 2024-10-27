@@ -134,7 +134,7 @@ let products = {
       // nutri: ["28", "705"],
       category: "smoothies",
       price: "5.5",
-      image: "./images/smoothie-bowl/pb&jam.png",
+      image: "./images/smoothie-bowl/greek-straw.jpg",
     },
     {
       productName: "Banana-Straw",
